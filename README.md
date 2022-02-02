@@ -10,7 +10,7 @@ Proton Protector integrates a multitude of options that will guarantee you to by
 
 .Native Injection (svchost) Persistence (Native Managed)
 
-Hidden Startup (x86, x64) Assembly Changer
+Hidden Startup (x86, x64) Assembly Changer. Stub CSharp
 
 Anti - VMware Workstation Anti - SandBoxie Anti - WireShark Anti - Virtual Computer (All) Obfuscator (Arithmetic) KoiVM Virtualization Hide File CodeDom - v2.0, v3.5, v4.0 Split Method Junk Code Generator HIPS AMSI and Proactive Bypass. Runtime ScanTime 100% FUD.
 
