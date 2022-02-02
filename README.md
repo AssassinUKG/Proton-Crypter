@@ -22,3 +22,8 @@ Anti - VMware Workstation Anti - SandBoxie Anti - WireShark Anti - Virtual Compu
 ![tuYncBr](https://user-images.githubusercontent.com/67174288/152075117-9f1179c4-5367-40cb-8e48-5dc777b0fa32.png)
 ![u69DfbF](https://user-images.githubusercontent.com/67174288/152075119-170a4f27-cb79-4614-8b41-7515918319c4.png)
 ![2MVuz6y4B6zz](https://user-images.githubusercontent.com/67174288/152093521-1707af92-f022-4a7c-9c40-c1579f4d072e.png)
+
+# Contact
+
+Skype : loras.beas
+Telegram : @razordeveloper
