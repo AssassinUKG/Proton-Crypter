@@ -21,10 +21,6 @@ Anti - VMware Workstation Anti - SandBoxie Anti - WireShark Anti - Virtual Compu
 ![u69DfbF](https://user-images.githubusercontent.com/67174288/152075119-170a4f27-cb79-4614-8b41-7515918319c4.png)
 ![2MVuz6y4B6zz](https://user-images.githubusercontent.com/67174288/152093521-1707af92-f022-4a7c-9c40-c1579f4d072e.png)
 
-# Private Version
-
-A paid version of Proton Crypter Private is available. If you are looking for a good crypter and long FUD time, contact me. 
-
 # Contact
 
 Skype : loras.beas
