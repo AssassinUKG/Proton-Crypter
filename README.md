@@ -14,7 +14,7 @@ Hidden Startup (x86, x64) Assembly Changer
 
 Anti - VMware Workstation Anti - SandBoxie Anti - WireShark Anti - Virtual Computer (All) Obfuscator (Arithmetic) KoiVM Virtualization Hide File CodeDom - v2.0, v3.5, v4.0 Split Method Junk Code Generator HIPS AMSI and Proactive Bypass. Runtime ScanTime 100% FUD.
 
-# screenshot
+# Screenshot
 
 ![a28tEav](https://user-images.githubusercontent.com/67174288/152075108-aa7d3df0-3405-45a8-8071-b17916ccc6b1.jpg)
 ![iXF2WQ1](https://user-images.githubusercontent.com/67174288/152075111-bf5fba39-b462-40bf-a903-f3ad91e336b3.png)
