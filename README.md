@@ -23,7 +23,7 @@ Anti - VMware Workstation Anti - SandBoxie Anti - WireShark Anti - Virtual Compu
 
 # Proton Crypter 2022 New Source Code
 
-![2MVuz6y4B6zz](https://i.imgur.com/8zPS1LH.jpg)
+![2MVuz6y4B6zz](https://i.imgur.com/5c5HCoE.jpg)
 
 All features have been refreshed. Algorithm change. 100% FUD Runtime ScanTime.  Many new features have been added.
 
