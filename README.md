@@ -21,7 +21,37 @@ Anti - VMware Workstation Anti - SandBoxie Anti - WireShark Anti - Virtual Compu
 ![u69DfbF](https://user-images.githubusercontent.com/67174288/152075119-170a4f27-cb79-4614-8b41-7515918319c4.png)
 ![2MVuz6y4B6zz](https://user-images.githubusercontent.com/67174288/152093521-1707af92-f022-4a7c-9c40-c1579f4d072e.png)
 
+# Proton Crypter 2022 New Source Code
+
+
+
+All features have been refreshed. Algorithm change. 100% FUD Runtime ScanTime.  Many new features have been added.
+
+New Features : 
+
+NET & Native
+Hidden Startup (New)
+Anti - VMware Workstation
+Anti - SandBoxie
+Anti - WireShark
+Anti - Virtual Machine
+Anti - dnSpy
+Anti - Dump
+Anti - de4dot
+Persistence (New)
+Stub (Algorithm Changed)
+Metamorphic Encryption Method
+Assembly Changer (Cloner)
+Icon Changer (Cloner)
+Windows Defender Disabler
+Windows Defender Remover
+New Virtualization
+Junk Code Adder
+
+# Buy Now
+
+https://shoppy.gg/product/tBYNT8T
+
 # Contact
 
 Skype : loras.beas
-Telegram : @razordeveloper
