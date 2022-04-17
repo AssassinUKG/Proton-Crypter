@@ -15,7 +15,20 @@ https://avcheck.net/id/h9slwpRTzjJa
 # YouTube Tutorial 
 
 Proton Protector v2.0 https://youtu.be/xy8y0poGJ3k
+
 Proton Protector v2.0.0 - ESET HIPS Proactive Bypass https://youtu.be/xy8y0poGJ3k
+
+# Features (NEW)
+
+All features have been refreshed. Algorithm change. 100% FUD Runtime ScanTime.  Many new features have been added.
+
+.NET & Native Files .NET Injection (RegAsm)
+
+.Native Injection (svchost) Persistence (Native Managed)
+
+Hidden Startup (x86, x64) Assembly Changer
+
+Anti - VMware Workstation Anti - SandBoxie Anti - WireShark Anti - Virtual Computer (All) Obfuscator (Arithmetic) KoiVM Virtualization Hide File CodeDom - v2.0, v3.5, v4.0 Split Method Junk Code Generator HIPS AMSI and Proactive Bypass. Runtime ScanTime 100% FUD.
 
 # Price 
 
@@ -31,42 +44,14 @@ https://shoppy.gg/product/tBYNT8T
 
 Skype : https://join.skype.com/invite/prGdcibVNBWw
 
-All features have been refreshed. Algorithm change. 100% FUD Runtime ScanTime.  Many new features have been added.
-
-New Features : 
+Features : 
 
 NET & Native
-Hidden Startup (New)
+Hidden Startup
 Anti - VMware Workstation
 Anti - SandBoxie
 Anti - WireShark
 Anti - Virtual Machine
-Anti - dnSpy
-Anti - Dump
-Anti - de4dot
-Persistence (New)
-Stub (Algorithm Changed)
-Metamorphic Encryption Method
-Assembly Changer (Cloner)
-Icon Changer (Cloner)
-Windows Defender Disabler
-Windows Defender Remover
-New Virtualization
-Junk Code Adder
-
-
-# Scan Result
-2022-04-05 Scan Result : https://avcheck.net/id/ZMWv41GTGo8V
-
-# Crypter Features
-
-.NET & Native Files .NET Injection (RegAsm)
-
-.Native Injection (svchost) Persistence (Native Managed)
-
-Hidden Startup (x86, x64) Assembly Changer
-
-Anti - VMware Workstation Anti - SandBoxie Anti - WireShark Anti - Virtual Computer (All) Obfuscator (Arithmetic) KoiVM Virtualization Hide File CodeDom - v2.0, v3.5, v4.0 Split Method Junk Code Generator HIPS AMSI and Proactive Bypass. Runtime ScanTime 100% FUD.
 
 # Screenshot
 
