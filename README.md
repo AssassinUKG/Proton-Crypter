@@ -52,6 +52,8 @@ https://shoppy.gg/product/tBYNT8T
 
 # Contact Me
 
+Telegram : https://t.me/xbasecrypter
+
 Skype : https://join.skype.com/invite/prGdcibVNBWw
 
 Features : 
