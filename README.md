@@ -42,7 +42,7 @@ Anti - VMware Workstation Anti - SandBoxie Anti - WireShark Anti - Virtual Compu
 
 # Price 
 
-$100 For Source Code
+$500 For Source Code
 
 FUD stub will be delivered to you immediately within 2 hours of purchase.
 
