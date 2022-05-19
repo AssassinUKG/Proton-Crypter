@@ -18,9 +18,9 @@ Proton Crypter is one of the best crypters written in 2022 with new source code.
 
 ![2MVuz6y4B6zz](https://imgur.com/N0j3bIh.jpg)
 
-# Last Scan Result 
+# Last Scan Result 19/05/2022
 
-https://avcheck.net/id/h9slwpRTzjJa
+https://antiscan.me/scan/new/result?id=e660OqXBrgg3
 
 # YouTube Tutorial 
 
